@@ -1,0 +1,4 @@
+interface:
+  display_name: "Temporal Telemetry Forensics"
+  short_description: "Read accumulating stores by time regime, not lifetime aggregate."
+  default_prompt: "Use Temporal Telemetry Forensics before drawing conclusions from logs, tables, metrics, or ledgers that grow over time."
